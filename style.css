@@ -1,0 +1,74 @@
+body{
+    font-family: 'Redressed', cursive;
+    background-color:aqua
+}
+section{
+    height: 500px;
+    padding-top: 150px;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    color: slategrey;
+    font-size: 20px;
+}
+.name-color{
+    color: blueviolet;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.three-box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    margin: 70px;
+    border: 1px solid white;
+    float: left;
+    width: 360px;
+    padding: 10px;
+    display: inline;
+    
+}
+.three-box img{
+    width: 100%;
+    height: auto;
+}
+.text{
+    text-align: center;
+}
+.background{
+    background-image: url("image2/Group_33094_1.png");
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 800px 200px;
+    text-align: center;
+    display: block;
+}
+#No1{
+    color: cornsilk;
+}
+footer h4{
+    text-align: center;
+}
+footer h2{
+    text-align: center;
+}
+.logo{
+    padding-left: 20%;
+}
